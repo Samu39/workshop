@@ -9,5 +9,7 @@ public class MemoryCircularBuffer implements CircularBuffer {
 
     public int getSize(){
         return array.length;
+
+
     }
 }
